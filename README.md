@@ -62,7 +62,7 @@ python predict.py "NASA confirms water found on Mars in large quantities."
 python predict.py "Scientists claim a secret herb cures every disease overnight."
 # Output: Fake (1)
 
-📊 Model Performance
+##📊 Model Performance
 
 Accuracy: ~99.6%
 
@@ -70,7 +70,7 @@ Class balance: Real: 21417 | Fake: 23481
 
 Super fast predictions – perfect for integrating into apps or pipelines
 
-⚡ Notes
+##⚡ Notes
 
 Make sure True.csv and Fake.csv are in the correct path
 
@@ -78,7 +78,7 @@ Model & vectorizer must be loaded for predictions
 
 Text preprocessing is minimal: just lowercasing, removing NaNs, combining title + text
 
-💡 Future Improvements
+##💡 Future Improvements
 
 Add deep learning models like LSTM or BERT for higher accuracy
 
