@@ -5,7 +5,7 @@
 *.csv
 
 # Generated images
-*.png
+
 *.jpg
 
 # Python cache
