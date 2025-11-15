@@ -1,2 +1,28 @@
-model.pkl
-vectorizer.pkl
+# Model files (large)
+*.pkl
+
+# Data files (large)
+*.csv
+
+# Generated images
+*.png
+*.jpg
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
