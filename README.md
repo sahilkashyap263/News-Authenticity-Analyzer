@@ -8,6 +8,10 @@ An AI-powered web application that detects fake news using machine learning with
 
 ## 📸 Screenshots
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
 ### Single Article Analysis
 Analyze individual news articles with confidence scores and visual probability charts.
 
@@ -279,8 +283,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: https://github.com/sahilkashyap263
+- LinkedIn: www.linkedin.com/in/sahil-kashyap263
 
 ---
 
@@ -303,15 +307,6 @@ This tool is designed for **educational and research purposes only**. It should 
 
 **The model is not perfect and may make mistakes.** Do not rely solely on this tool for important decisions.
 
----
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Troubleshooting](#-troubleshooting) section
-2. Open an [Issue](https://github.com/yourusername/fake-news-detection/issues)
-3. Contact the author
 
 ---
 
