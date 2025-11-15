@@ -12,6 +12,10 @@ An AI-powered web application that detects fake news using machine learning with
 
 ![alt text](image-1.png)
 
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
 ### Single Article Analysis
 Analyze individual news articles with confidence scores and visual probability charts.
 
